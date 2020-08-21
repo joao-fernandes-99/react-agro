@@ -1,0 +1,17 @@
+div#principal{
+    background-color: rgb(15, 15, 19);
+    margin-top: 5%;
+    margin-left: 28%;
+    margin-right: 28%;
+    margin-bottom: 5%;
+    width: 500px;
+    position: center;
+}
+
+h1#principal{
+    color: whitesmoke;
+}
+
+label{
+    color: whitesmoke;
+}
